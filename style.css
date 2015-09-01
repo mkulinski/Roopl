@@ -49,6 +49,9 @@ nav ul {
 .hassleFree {
 	padding-top: 95px;
 }
+.hassleFree p {
+	padding-top: 30px;
+}
 .hassleFree .text-left {
 	width: 450px; 
 	margin-left: 100px;
@@ -57,14 +60,19 @@ nav ul {
 .remoteHelp {
 	background-color: #364156;
 	color: #FFF;
-	padding-top: 70px;
+	padding-top: 150px;
 }
 .remoteHelp img { 
 	margin-left: 100px;
 	margin-right: 35px;
 }
-.remoteHelp .text-right {
+.remoteHelp .text-center {
 	width: 450px;
+	margin-left: 90px;
+	margin-top: 50px;
+}
+.remoteHelp p {
+	padding-top: 30px;
 }
 #getRoopl {
 	display: block;
