@@ -11,7 +11,28 @@ p {
 nav ul {
 	float: right;
 }
-.jumbotron img {
+.navButton {
+	border: 4px solid #AF3E4D;
+}
+.jumbotron {
+	padding-bottom: 100px;
+}
+.jumbotron .appleLogo {
+	position: relative;
+	right: 65px;
+	top: 8px;
+}
+.jumbotron .available {
+	font-size: 14px;
+    font-weight: 400;
+}
+.jumbotron .wrapper {
+	padding-right: 10px;
+}
+.videoButton {
+	padding-left: 6px;
+}
+.jumbotron .jumboIphone {
 	width: 200px;
 	height: 409px;
 	margin-top: 50px;
@@ -20,10 +41,21 @@ nav ul {
 	font-size: 24px;
 	font-weight: 500;
 }
+.arrow {
+	margin-top: 50px;
+}
+.hassleFree {
+	padding-top: 95px;
+}
 .hassleFree .text-left {
 	width: 450px; 
 	margin-left: 100px;
 	margin-right: 35px;
+}
+.remoteHelp {
+	background-color: #364156;
+	color: #FFF;
+	padding-top: 70px;
 }
 .remoteHelp img { 
 	margin-left: 100px;
@@ -31,4 +63,40 @@ nav ul {
 }
 .remoteHelp .text-right {
 	width: 450px;
+}
+#getRoopl {
+	display: block;
+	margin-top: 100px;
+	margin-bottom: 25px;
+	font-size: 20px;
+}
+.appStoreButton {
+	background-color: #AF3E4D;
+	height: 62px;
+	width: 200px;
+	padding-right: 25px;
+    display: inline-block;
+    border: none;
+}
+.appStoreButton .wrapper {
+	position: relative;
+    bottom: 28px;
+    left: 30px;
+}
+.appleLogo {
+	position: relative;
+    top: 8px;
+    right: 95px;
+    width: 23px;
+    height: 28px;
+}
+.available {
+	display: block;
+	color: #FFF;
+}
+.appStoreText {
+	display: block;
+	font-weight: 700;
+	font-size: 20px;
+	color: #FFF;
 }
