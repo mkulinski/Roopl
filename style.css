@@ -5,16 +5,33 @@ h2 {
 p {
 	font-size: 20px;
 }
+a {
+	color: inherit;
+}
 #navbar {
 	overflow: hidden;
 }
-nav ul {
+.navbar-default {
+	background-color: #11151C;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #FFF;
+}
+.listWrapper {
 	float: right;
+}
+.navbar-brand {
+	padding: 0;
+	margin: 0;
 }
 .navButton {
 	border: 4px solid #AF3E4D;
 	margin-bottom: 0;
 	margin-top: 5px;
+	background-color: transparent;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #FFF;
 }
 .jumbotron {
 	padding-bottom: 100px;
