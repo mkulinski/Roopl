@@ -69,33 +69,20 @@ a {
 .hassleFree p {
 	padding-top: 30px;
 }
-.hassleFree .text-left {
-	width: 450px; 
-	margin-left: 100px;
-	margin-right: 35px;
-}
 .remoteHelp {
 	background-color: #364156;
 	color: #FFF;
 	padding-top: 150px;
-}
-.remoteHelp img { 
-	margin-left: 100px;
-	margin-right: 35px;
-}
-.remoteHelp .text-center {
-	width: 450px;
-	margin-left: 90px;
-	margin-top: 50px;
 }
 .remoteHelp p {
 	padding-top: 30px;
 }
 #getRoopl {
 	display: block;
-	margin-top: 100px;
+	margin-top: 40px;
 	margin-bottom: 25px;
-	font-size: 20px;
+	font-size: 18px;
+	font-weight: 700;
 }
 .appStoreButton {
 	background-color: #AF3E4D;
@@ -113,7 +100,7 @@ a {
 .appleLogo {
 	position: relative;
     top: 8px;
-    right: 95px;
+    right: 57px;
     width: 23px;
     height: 28px;
 }
