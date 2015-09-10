@@ -35,47 +35,38 @@ a {
 
 .jumbotron {
   padding-bottom: 100px; }
-
-.jumbotron .appleLogo {
-  position: relative;
-  right: 65px;
-  top: 8px; }
-
-.jumbotron .available {
-  font-size: 14px;
-  font-weight: 400; }
-
-.jumbotron .wrapper {
-  padding-right: 10px; }
-
-.videoButton {
-  padding-left: 6px; }
-
-.jumbotron .jumboIphone {
-  width: 200px;
-  height: 409px;
-  margin-top: 50px; }
-
-.jumbotron p {
-  font-size: 24px;
-  font-weight: 500; }
-
-.arrow {
-  margin-top: 50px; }
+  .jumbotron .appleLogo {
+    position: relative;
+    right: 65px;
+    top: 8px; }
+  .jumbotron .available {
+    font-size: 14px;
+    font-weight: 400; }
+  .jumbotron .wrapper {
+    padding-right: 10px; }
+  .jumbotron .jumboIphone {
+    width: 200px;
+    height: 409px;
+    margin-top: 50px; }
+  .jumbotron p {
+    font-size: 24px;
+    font-weight: 500; }
+  .jumbotron .videoButton {
+    padding-left: 6px; }
+  .jumbotron .arrow {
+    margin-top: 50px; }
 
 .hassleFree {
   padding-top: 95px; }
-
-.hassleFree p {
-  padding-top: 30px; }
+  .hassleFree p {
+    padding-top: 30px; }
 
 .remoteHelp {
   background-color: #364156;
   color: #FFFFFF;
   padding-top: 150px; }
-
-.remoteHelp p {
-  padding-top: 30px; }
+  .remoteHelp p {
+    padding-top: 30px; }
 
 #getRoopl {
   display: block;
@@ -91,11 +82,10 @@ a {
   padding-right: 25px;
   display: inline-block;
   border: none; }
-
-.appStoreButton .wrapper {
-  position: relative;
-  bottom: 28px;
-  left: 30px; }
+  .appStoreButton .wrapper {
+    position: relative;
+    bottom: 28px;
+    left: 30px; }
 
 .appleLogo {
   position: relative;
